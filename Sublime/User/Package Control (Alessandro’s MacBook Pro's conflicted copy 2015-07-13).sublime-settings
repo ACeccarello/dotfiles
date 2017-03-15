@@ -1,0 +1,35 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
+		"Blade Snippets",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Colorsublime",
+		"DocBlockr",
+		"Ember CLI Snippets",
+		"Emmet",
+		"GitGutter",
+		"Handlebars",
+		"Laravel Blade Highlighter",
+		"Material Color Scheme",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"Schemr",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Brogrammer",
+		"Theme - Hero",
+		"Theme - Spacegray",
+		"Themr"
+	]
+}
