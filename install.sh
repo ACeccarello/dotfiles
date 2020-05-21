@@ -160,14 +160,6 @@ echo "done"
 # Actual symlink stuff
 #
 
-
-# Atom editor settings
-echo -n "Copying Sublime settings.."
-mv -f ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User ~/dotfiles_old/
-ln -s $HOME/dotfiles/Sublime/User ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
-echo "done"
-
-
 declare -a FILES_TO_SYMLINK=(
 
   'shell/shell_aliases'
@@ -183,7 +175,6 @@ declare -a FILES_TO_SYMLINK=(
   'shell/gemrc'
   'shell/inputrc'
   'shell/screenrc'
-
   'git/gitattributes'
   'git/gitconfig'
   'git/gitignore'

@@ -28,10 +28,6 @@ cp ~/.bash_history ~/migration # back it up for fun?
 cp ~/.gitconfig.local ~/migration
 cp ~/.z ~/migration # z history file.
 
-# sublime text settings
-cp "~/Library/Application Support/Sublime Text 3/Packages" ~/migration
-
-
 # iTerm settings.
   # Prefs, General, Use settings from Folder
 
@@ -127,13 +123,6 @@ chmod +x ~/z/z.sh
 
 # for the c alias (syntax highlighted cat)
 # sudo easy_install Pygments
-
-
-###############################################################################
-# Atom                                                                        #
-###############################################################################
-
-# ln -s /Applications/Atom.app/Contents/Resources/app/atom.sh /usr/local/bin/atom
 
 
 ###############################################################################
