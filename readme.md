@@ -24,7 +24,7 @@ So, to recap, the install script will:
 ## Installation
 
 ```sh
-git clone https://github.com/nicksp/dotfiles.git ~/dotfiles
+git clone https://github.com/aceccarello/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 chmod +x setup.sh
 ./setup.sh
@@ -69,8 +69,8 @@ as the `git` user credentials, e.g.:
 
 ```sh
 [user]
-  name = Nick Plekhanov
-  email = nick@example.com
+  name = Alessandro Ceccarello
+  email = alessandro@example.com
 ```
 
 ## Resources
